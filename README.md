@@ -7,7 +7,7 @@ http://api.yalarc.com/douyin/home?page=1&page_size=3
 page 页码
 page_size 每页条数 （默认是三）
 
-‘’‘
+```
 {
     "code": 200,
     "msg": "成功",
@@ -29,7 +29,7 @@ page_size 每页条数 （默认是三）
         "page_count": 9
     }
 }
-’‘’
+```
 
 视频URL： http://video.yalarc.com/+dy_video+.mp4
 
